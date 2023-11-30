@@ -1,0 +1,38 @@
+//* HTML == TAGS
+//* CSS === PROPERTY = VALUE
+
+//* JAVA , JS , PYTHON, PHP === DATA
+
+
+//* DATA TYPES
+    * STRING
+    "- I AM SHOURAB. I LOVE PLAYING FOOTBALL. I AM 23 YEAR"
+
+
+
+
+
+    * NUMBER
+    - 20, 50, 100 100
+        -- INT == 90,50 60, FLOAT / DOUBLE == 0.10, 3.1416
+
+
+
+
+
+
+
+
+
+
+    * BOOLEAN
+        - TRUE, FALSE  [1,0]
+    * NULL
+       - nai
+
+
+
+       
+    * ARRAY
+    * OBJECT
+    * RESOURCES
